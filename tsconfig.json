@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "commonjs",
+    "declaration": true,
+    "noImplicitAny": true
+  },
+  "files": [
+    "test.ts",
+    "index.d.ts",
+    "typings/index.d.ts"
+  ]
+}
